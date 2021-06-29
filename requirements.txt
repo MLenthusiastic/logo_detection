@@ -15,8 +15,6 @@ torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 urllib3==1.25.10
 Werkzeug==1.0.1
-scipy>=0.15.1
-scikit-learn==0.22.1
 matplotlib>=1.4.3
 pandas>=0.19
 flasgger==0.9.4
