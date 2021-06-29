@@ -20,4 +20,5 @@ pandas>=0.19
 flasgger==0.9.4
 opencv-contrib-python-headless
 tqdm
+seaborn
 streamlit
