@@ -20,5 +20,5 @@ scikit-learn==0.22.1
 matplotlib>=1.4.3
 pandas>=0.19
 flasgger==0.9.4
-opencv-python==4.2.0.34
+opencv-python==4.5.2.54
 streamlit
